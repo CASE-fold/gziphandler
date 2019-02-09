@@ -1,6 +1,6 @@
 // +build go1.8
 
-package gziphandler
+package gziphandler // import "github.com/case-fold/gziphandler"
 
 import (
 	"net/http"
